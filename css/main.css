@@ -297,6 +297,10 @@ body {
         margin-right: 0;
     }
 
+    .swiper__item-heading {
+        margin-top: 1.25rem;
+    }
+
     .swiper__item-img {
         margin: 0;
         padding: 0;
@@ -306,7 +310,6 @@ body {
         width: 100%;
         display: flex;
         justify-content: center;
-        padding-bottom: 1.25rem;
     }
     .swiper-button-prev {
         position: relative;
